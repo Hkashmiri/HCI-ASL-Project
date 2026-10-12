@@ -1,11 +1,15 @@
-opencv-python
-mediapipe
-tensorflow==2.16.1
-Pillow
-numpy
-pandas
-seaborn
-scikit-learn
-matplotlib
-customtkinter
-pyttsx3
+# This project is set up against the existing local venv:
+#   Python 3.12.14 at ./venv
+# Homebrew's default python3 is currently 3.14, which is too new for TensorFlow.
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+tensorflow==2.19.1
+Pillow==12.3.0
+numpy==1.26.4
+ml-dtypes==0.5.3
+pandas==3.0.6
+seaborn==0.13.2
+scikit-learn==1.9.1
+matplotlib==3.11.2
+customtkinter==6.0.0
+pyttsx3==2.99

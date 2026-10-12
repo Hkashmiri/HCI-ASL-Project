@@ -328,7 +328,6 @@ sequenceDiagram
 
 ```bash
 # Clone the repository
-git clone https://github.com/Muhib-Mehdi/ASL-Recognition-System.git
 
 # Navigate to project directory
 cd ASL-Recognition-System
@@ -1412,9 +1411,6 @@ cap_width = int(os.getenv('RESOLUTION_WIDTH', 960))
 
 </details>
 
-### 🎯 Community Requests
-
-Vote for features on our [GitHub Discussions](https://github.com/Muhib-Mehdi/ASL-Recognition-System/discussions)!
 
 ---
 
@@ -1427,14 +1423,7 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 <details open>
 <summary><b>Quick Contribution Guide</b></summary>
 
-#### 1️⃣ Fork the Repository
 
-```bash
-# Click "Fork" on GitHub
-# Clone your fork
-git clone https://github.com/YOUR_USERNAME/ASL-Recognition-System.git
-cd ASL-Recognition-System
-```
 
 #### 2️⃣ Create a Branch
 
@@ -1585,15 +1574,6 @@ When reporting bugs, please include:
 </details>
 
 ### 🏆 Contributors
-
-<div align="center">
-
-[![Contributors](https://contrib.rocks/image?repo=Muhib-Mehdi/ASL-Recognition-System)](https://github.com/Muhib-Mehdi/ASL-Recognition-System/graphs/contributors)
-
-*Thank you to all our contributors!*
-
-</div>
-
 ---
 
 ## 📄 License
@@ -1604,8 +1584,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ```
 MIT License
-
-Copyright (c) 2024 Muhib Mehdi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1658,14 +1636,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <div align="center">
 
-### **Muhib Mehdi**
 
 *Passionate about leveraging AI for social good and accessibility*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Muhib--Mehdi-181717?style=for-the-badge&logo=github)](https://github.com/Muhib-Mehdi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhib-mehdi-677bb7391)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhibmehdi46@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Muhib-Mehdi.github.io)
 
 ---
 
@@ -1685,11 +1658,6 @@ I'm a machine learning engineer and accessibility advocate dedicated to building
 
 Have questions, suggestions, or collaboration ideas?
 
-- 📧 **Email**: muhibmehdi24@gmail.com
-- 💼 **LinkedIn**: [Muhib Mehdi](https://www.linkedin.com/in/muhib-mehdi-677bb7391)
-- 🐙 **GitHub**: [@Muhib-Mehdi](https://github.com/Muhib-Mehdi)
-- 🌐 **Website**: [Website](https://muhibmehdi.github.io)
-
 ---
 
 ### ⭐ Support This Project
@@ -1703,11 +1671,7 @@ If you find this project helpful, please consider:
 - 💡 **Suggesting** new features
 - 🤝 **Contributing** code or documentation
 
-<a href="https://buymeacoffee.com/muhib.mehdi" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-</a>
 
-</div>
 
 ---
 
@@ -1725,18 +1689,7 @@ Special thanks to:
 
 ## 📊 Project Stats
 
-<div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/Muhib-Mehdi/ASL-Recognition-System?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Muhib-Mehdi/ASL-Recognition-System?style=social)
-![GitHub Watchers](https://img.shields.io/github/watchers/Muhib-Mehdi/ASL-Recognition-System?style=social)
-
-![GitHub Issues](https://img.shields.io/github/issues/Muhib-Mehdi/ASL-Recognition-System)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Muhib-Mehdi/ASL-Recognition-System)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Muhib-Mehdi/ASL-Recognition-System)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Muhib-Mehdi/ASL-Recognition-System)
-
-</div>
 
 ---
 
@@ -1750,8 +1703,6 @@ Special thanks to:
 
 ---
 
-**© 2024 Muhib Mehdi. All Rights Reserved.**
-
-[⬆ Back to Top](#-asl-recognition-system)
+**© 2026 Hafsah Kashmiri. All Rights Reserved.**
 
 </div>
